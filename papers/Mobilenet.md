@@ -1,25 +1,21 @@
-# MobileNet Paper Summary
+## MobileNet Paper Summary
 
-## Introduction
-- MobileNet is a deep neural network designed for efficient on-device inference.
-- The network uses depthwise separable convolutions to reduce computational cost.
+### Depthwise Separable Filters
+The core building blocks of MobileNet are depthwise separable filters, which factorize a standard convolution into two separate layers: a depthwise convolution and a 1x1 pointwise convolution.
 
-## Depthwise Separable Filters
-- Standard convolutions filter and combine inputs into outputs in one step.
-- Depthwise separable convolutions split this process into two layers: a depthwise convolution and a pointwise convolution.
-- The depthwise convolution filters each channel of the input independently.
-- The pointwise convolution then combines the filtered channels into a set of output features.
+The depthwise convolution filters each channel in the input feature map separately, producing an intermediate filtered output feature map. The pointwise convolution then combines the depthwise filtered outputs into the final output feature map.
 
-## MobileNet Network Structure
-- The MobileNet network is built on depthwise separable filters.
-- The network has two hyper-parameters to reduce computational cost: width multiplier and resolution multiplier.
-- The width multiplier reduces the number of channels in each layer, while the resolution multiplier reduces the size of the input image.
+### Network Structure
+The MobileNet network is built using depthwise separable filters, with a focus on reducing the number of parameters and computation required by the network.
 
-## Width Multiplier
-- For a given layer and width multiplier, the number of input channels becomes αM and the number of output channels becomes αN.
+### Width Multiplier (α)
+A hyperparameter called width multiplier (α) is introduced to control the size of the model. By reducing α, the number of filters in each layer is reduced, leading to a smaller and faster model. For a given layer and width multiplier α, the number of input and output channels are scaled by α.
 
-## Resolution Multiplier
-- The resolution multiplier reduces the size of the input image, thereby reducing the computational cost of the network.
+### Resolution Multiplier (ρ)
+Another hyperparameter called resolution multiplier (ρ) is introduced to control the spatial resolution of the output feature maps and reduce the computational cost of the network. By reducing ρ, the spatial resolution of the output feature maps is reduced, leading to a smaller and faster model.
 
-## Conclusion
-- MobileNet is a deep neural network designed for efficient on-device inference using depthwise separable filters and hyper-parameters to reduce computational cost.
+The information and questions above are based on the "MobileNet: Efficient Convolutional Neural Networks for Mobile Vision Applications" paper by Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Wei Wei, Tong Narang, James Philbin, and Kilian Q. Weinberger.
+
+### Q&A
+Q: What's the number of 1x1 convolution filters? Is it N?
+A: Yes, it is N in this paper, where N is the output channels of a layer. The number of 1x1 convolution filters determines the number of output channels of the pointwise convolution, which combines the depthwise filtered outputs into the final output feature map.
