@@ -1,5 +1,5 @@
 <p>
-    <img src="david-clode-lK4eXU2E2ww-unsplash.jpg" style="border-radius: 20px;"/>
+    <img src="david-clode-lK4eXU2E2ww-unsplash.jpg" style="border-radius: 5px;"/>
 </p>
 
 ## 🧭 About
@@ -10,3 +10,6 @@ This repository is your one-stop shop for staying informed about the latest adva
 ## 📚 Paper list
 
 1. [Mobilenet](papers/Mobilenet.md)
+
+## Credits
+Photo by <a href="https://unsplash.com/@davidclode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Clode</a> on <a href="https://unsplash.com/photos/lK4eXU2E2ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
