@@ -18,4 +18,5 @@ The information and questions above are based on the "MobileNet: Efficient Convo
 
 ### Q&A
 Q: What's the number of 1x1 convolution filters? Is it N?
+
 A: Yes, it is N in this paper, where N is the output channels of a layer. The number of 1x1 convolution filters determines the number of output channels of the pointwise convolution, which combines the depthwise filtered outputs into the final output feature map.
