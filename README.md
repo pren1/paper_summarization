@@ -1,5 +1,5 @@
 <p>
-    <img src="david-clode-lK4eXU2E2ww-unsplash.jpg"/>
+    <img src="david-clode-lK4eXU2E2ww-unsplash.jpg" style="border-radius: 20px;"/>
 </p>
 
 ## 🧭 About
