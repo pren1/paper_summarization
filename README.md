@@ -11,9 +11,11 @@ This repository is your one-stop shop for staying informed about the latest adva
 
 1. [MobileNet](ML_papers/MobileNet.md)
 2. [SSD](ML_papers/SSD.md)
+
 ## 📚 Navigation Paper list
 
 1. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
+
 ## ✅ Website
 [Click me!](https://pren1.github.io/paper_summarization/)
 
