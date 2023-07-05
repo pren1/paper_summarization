@@ -9,6 +9,7 @@ This repository is your one-stop shop for staying informed about the latest adva
 
 ## 📚 ML Paper list
 
+1. [MobileNet](ML_papers/MobileNet.md)
 ## 📚 Navigation Paper list
 
 1. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
