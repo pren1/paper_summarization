@@ -13,7 +13,7 @@ def generate_paper_list(folder, start_string):
         paper_title = file_name[:-3]
         paper_list += f"{i}. [{paper_title}]({folder}/{file_name})\n"
     
-    return paper_list
+    return paper_list + "\n"
 
 def update_readme(readme_file, start_marker, end_marker, new_paper_list):
     # Read the existing README.md content
