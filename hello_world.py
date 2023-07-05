@@ -34,10 +34,12 @@ if __name__== "__main__":
     
     readme_file = "README.md"
 
-    ml_paper_list = generate_paper_list(folder, "## 📚 ML Paper list\n\n")
+    ml_paper_list = generate_paper_list("ML_papers", "## 📚 ML Paper list\n\n")
+    print(f"ml: {ml_paper_list}")
     update_readme(readme_file, "## 📚 ML Paper list", "## 📚 Navigation Paper list", ml_paper_list)
-
-    nav_paper_list = generate_paper_list(folder, "## 📚 Navigation Paper list\n\n")
+    
+    nav_paper_list = generate_paper_list("Navigation_papers", "## 📚 Navigation Paper list\n\n")
+    print(f"nav: {nav_paper_list}")
     update_readme(readme_file, "## 📚 Navigation Paper list", "## ✅ Website", nav_paper_list)
     
     # # Get a list of Markdown files in the papers directory
