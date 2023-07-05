@@ -3,9 +3,7 @@
 </p>
 
 ## 🧭 About
-Get the most important information about cutting-edge machine learning papers, powered by the language model **ChatGPT**. Quickly grasp the key ideas and developments in the field, and stay up-to-date on the latest research.
-
-This repository is your one-stop shop for staying informed about the latest advancements in machine learning. Browse through a collection of summarized papers, presented in an easily digestible format, to deepen your understanding of the field.
+Welcome! This personal website is exclusively tailored for you. Feel at home as you explore your curated collection of machine learning and navigation research summaries. Stay informed, inspired, and keep up with the latest developments in your areas of interest. This is your dedicated space to fuel your intellectual curiosity and embark on a daily journey of knowledge discovery. Enjoy your time here, and let the exploration begin!
 
 ## 📚 ML Paper list
 
