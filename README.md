@@ -7,12 +7,13 @@ Get the most important information about cutting-edge machine learning papers, p
 
 This repository is your one-stop shop for staying informed about the latest advancements in machine learning. Browse through a collection of summarized papers, presented in an easily digestible format, to deepen your understanding of the field.
 
-## 📚 Paper list
-
+## 📚 ML Paper list
+## 📚 Navigation Paper list
 1. [SSD](papers/SSD.md)
 2. [NoNeedtoWarDrive](papers/NoNeedtoWarDrive.md)
 3. [Mobilenet](papers/Mobilenet.md)
-## Credits
-Photo by <a href="https://unsplash.com/@davidclode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Clode</a> on <a href="https://unsplash.com/photos/lK4eXU2E2ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-## Website
+## ✅ Website
 [Click me!](https://pren1.github.io/paper_summarization/)
+
+## 🌟 Credits
+Photo by <a href="https://unsplash.com/@davidclode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Clode</a> on <a href="https://unsplash.com/photos/lK4eXU2E2ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
