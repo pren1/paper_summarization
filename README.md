@@ -11,6 +11,6 @@ This repository is your one-stop shop for staying informed about the latest adva
 
 1. [Mobilenet](papers/Mobilenet.md)
 2. [NoNeedtoWarDrive](papers/NoNeedtoWarDrive.md)
-
+3. [SSD](papers/SSD.md)
 ## Credits
 Photo by <a href="https://unsplash.com/@davidclode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Clode</a> on <a href="https://unsplash.com/photos/lK4eXU2E2ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
