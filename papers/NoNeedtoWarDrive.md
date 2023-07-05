@@ -1,4 +1,4 @@
-## Summary of Research Paper: No Need to War-Drive: Unsupervised Indoor Localization
+## No Need to War-Drive: Unsupervised Indoor Localization
 
 The research paper discusses the concept of utilizing internal landmarks in buildings for accurate indoor positioning. The authors propose that these landmarks exist naturally in the environment and can serve as reference points for navigation within a building.
 
