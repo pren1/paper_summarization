@@ -7,13 +7,14 @@ Welcome! This personal website is exclusively tailored for you. Feel at home as 
 
 ## 📚 ML Paper list
 
-1. [MobileNet](ML_papers/MobileNet.md)
-2. [SSD](ML_papers/SSD.md)
+1. [SSD](ML_papers/SSD.md)
+2. [MobileNet](ML_papers/MobileNet.md)
 
 ## 📚 Navigation Paper list
 
-1. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
+1. [LowEnergyBeacons](Navigation_papers/LowEnergyBeacons.md)
 2. [IndoorFingerPrintingWifi](Navigation_papers/IndoorFingerPrintingWifi.md)
+3. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
 
 ## ✅ Website
 [Click me!](https://pren1.github.io/paper_summarization/)
