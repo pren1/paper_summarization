@@ -13,9 +13,10 @@ Welcome! This personal website is exclusively tailored for you. Feel at home as 
 ## 📚 Navigation Paper list
 
 1. [LowEnergyBeacons](Navigation_papers/LowEnergyBeacons.md)
-2. [IndoorFingerPrintingWifi](Navigation_papers/IndoorFingerPrintingWifi.md)
-3. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
-4. [BluetoothRSSI](Navigation_papers/BluetoothRSSI.md)
+2. [VisualOdometry](Navigation_papers/VisualOdometry.md)
+3. [IndoorFingerPrintingWifi](Navigation_papers/IndoorFingerPrintingWifi.md)
+4. [NoNeedWarDrive](Navigation_papers/NoNeedWarDrive.md)
+5. [BluetoothRSSI](Navigation_papers/BluetoothRSSI.md)
 
 ## ✅ Website
 [Click me!](https://pren1.github.io/paper_summarization/)
